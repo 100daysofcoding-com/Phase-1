@@ -1,0 +1,17 @@
+JS and JSON
+JS => Scripting Programming Event Driving Langauage
+JSON => JavaScript Object Notation 
+
+// file.json
+
+// You should be in Objects and start and end with {}
+// key and value 
+// both key and value should be in quotation 
+// you cannot use functions in JSON
+
+// JSON is a Universal Source of Exchaning Data 
+//JSON  Independent for Any Programming Langauage
+
+// // npm init
+
+// // npm init -y
